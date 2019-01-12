@@ -15,7 +15,7 @@ Example:
 java -jar shuffler.jar 7 100000 200
 
 Output:
-progress: 100000/100000
+progress: 100000/100000<br>
 pairs : 46.73
 tripples : 4.2
 quads : 0.055
