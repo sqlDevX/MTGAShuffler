@@ -3,7 +3,7 @@ POC of a Statistics-Sample-Tool for Magic the Gathering
 
 usage:
 
-java Shuffler handSize maxRun shuffleCount
+java.exe Shuffler handSize maxRun shuffleCount
 
 handSize = Number of cards to draw from the 60 Cards Test-Deck
 
