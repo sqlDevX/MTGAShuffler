@@ -14,24 +14,24 @@ shuffleCount = shuffle the Deck x times using "https://en.wikipedia.org/wiki/Fis
 Example:
 java -jar shuffler.jar 7 100000 200
 
-Output:
+Output:<br>
 progress: 100000/100000<br>
-pairs : 46.73
-tripples : 4.2
-quads : 0.055
-fullhouse : 0.795
-2 pairs : 10.965
-avgLands : 2.9167791677916814
-%1 Land : 10.477
-%2 Land : 25.264999999999997
-%3 Land : 31.258000000000003
-%4 Land : 21.335
-%5 Land : 8.266
-%6 Land : 1.5779999999999998
-%7 Land : 0.108
-%8 Land : 0.0
-%9 Land : 0.0
-%10 Land : 0.0
+pairs : 46.73<br>
+tripples : 4.2<br>
+quads : 0.055<br>
+fullhouse : 0.795<br>
+2 pairs : 10.965<br>
+avgLands : 2.9167791677916814<br>
+%1 Land : 10.477<br>
+%2 Land : 25.264999999999997<br>
+%3 Land : 31.258000000000003<br>
+%4 Land : 21.335<br>
+%5 Land : 8.266<br>
+%6 Land : 1.5779999999999998<br>
+%7 Land : 0.108<br>
+%8 Land : 0.0<br>
+%9 Land : 0.0<br>
+%10 Land : 0.0<br>
 
 -> so you have got an about 46% chance drafting a pair in this deck with you opening hand
 
