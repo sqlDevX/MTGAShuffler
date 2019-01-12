@@ -11,7 +11,7 @@ maxRun = Number of iterations/samples to produce
 
 shuffleCount = shuffle the Deck x times using "https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle" like method
 
-The "cards" in this Test-Deck are:
+The "cards" in this Test-Deck are (better readable in the Shuffler.java at the bottom!):
 Divination
 Divination
 Divination
