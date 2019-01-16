@@ -2,7 +2,7 @@
 This is a small POC of a Map-Reduce Entropy-Testing algorithm. First a given deck ist assigned a..z for each different spell and 1..9 for each different land. The deck is shuffled, a deckstring is built:
 degb1afh22deb23232ggi3cc22chhceiddg1i3fie1f2b1111hafa222213b
 
-this string is tested for repeatin patterns by simply "deflating" it. if the compressed size is below a certain threshold the deck is considered not "shuffled enough", output is generated
+this string is tested for repeating patterns by simply "deflating" it. if the compressed size is below a certain threshold the deck is considered not "shuffled enough", output is generated
 
 compressed_size:deckstring:iteration<br>
 49:fg2e1111ibf2gec2icdhfi3cbgadeia2b212122e3hdhh3ca3131gdfb2222:29907<br>
